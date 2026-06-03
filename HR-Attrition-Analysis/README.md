@@ -26,6 +26,10 @@ The analysis covers demographics, department and job role trends, compensation, 
 ## PowerBi Dashboard Images
 <img width="767" height="430" alt="image" src="https://github.com/user-attachments/assets/8ce4749d-6115-4ef7-b7d2-8e6ff0eeb38a" />
 
+<img width="767" height="434" alt="image" src="https://github.com/user-attachments/assets/66b56614-cc55-435d-9e16-7ceac42c5b41" />
+
+<img width="769" height="433" alt="image" src="https://github.com/user-attachments/assets/7987a21b-4e53-467f-b1aa-3acc2e417ab0" />
+
 ## Business Recommendations
 
 1. Reduce excessive overtime, especially in Sales and R&D
